@@ -11,10 +11,10 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Provide general information about your project here. : This is an assignment for Linear Regression model building.
+- What is the background of your project? : To build a model using linear regression technique to decide most dominating features for bike sharing demand.
+- What is the business probem that your project is trying to solve? : The business problem is to build a model to decide predictors for bike sharing demand.
+- What is the dataset that is being used? - day.csv
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -42,7 +42,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@HarshadaKalsekar] - feel free to contact me!
 
 
 <!-- Optional -->
